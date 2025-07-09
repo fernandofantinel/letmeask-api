@@ -8,6 +8,13 @@
       "when": 1751992315072,
       "tag": "0000_previous_forgotten_one",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752066960560,
+      "tag": "0001_freezing_luminals",
+      "breakpoints": true
     }
   ]
 }
