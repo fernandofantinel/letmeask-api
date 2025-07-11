@@ -15,6 +15,13 @@
       "when": 1752066960560,
       "tag": "0001_freezing_luminals",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752244355526,
+      "tag": "0002_worried_firedrake",
+      "breakpoints": true
     }
   ]
 }
